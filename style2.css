@@ -1,0 +1,20 @@
+.navbar{
+    position: relative; top:-1.8cm;
+}
+
+.navbar-collapse li a{
+    color: aqua;
+
+}
+
+.container-fluid{
+    padding:  0px !important;
+    position: relative; top:-1cm;
+    
+ }
+
+.carousel {
+
+    position: relative; top:-1.8cm;
+}
+

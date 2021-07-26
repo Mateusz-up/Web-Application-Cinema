@@ -1,0 +1,1255 @@
+html, body {
+    overflow-x: hidden;
+}
+
+body
+{
+	
+	
+
+
+
+
+	background-image: url('https://static.vecteezy.com/system/resources/previews/002/217/896/non_2x/cinema-wallpaper-social-media-message-background-vector.jpg');
+	
+
+ background-position: -99999px -99999px;
+	
+
+  
+
+}
+
+body:before {
+    content: ""; 
+    background-image: inherit;
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    height: 100vh; 
+    width: 100%; 
+    -webkit-background-size: cover !important; 
+    -moz-background-size: cover !important; 
+    -o-background-size: cover;
+    background-size: cover !important; 
+    z-index: -1;
+}
+
+
+#footer
+{
+	clear: both;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 18px;
+	background-color:red;
+	position: relative; top:1.9cm;
+}
+#container2
+{
+	
+	background-color: white;
+	width: 300px;
+	padding: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	-webkit-box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+	-moz-box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+	box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+}
+
+
+.pasreje
+{
+	
+
+font-size:20px;
+background-color:#EEEEEE;	
+position: relative; top:-3cm;
+}
+
+
+
+.pasreje h888
+
+{
+		position: relative; left:2cm;
+	color:#330099;
+}
+
+.pasreje h889
+
+{
+	
+	color:#330099;
+	position: relative; left:13cm;
+}
+
+
+.Zakladanie
+{
+	display:block;
+	display:inline-block;
+	text-decoration: none;
+	list-style-type: none;
+
+	position: relative; left:9cm;
+	
+}
+
+.Zakladanie a
+{
+	text-decoration: none;
+	color:black;
+	
+}
+.Zakladanie a:hover
+{
+	color:#FF9900;
+}
+
+.Logowanie
+{
+	
+	background-size:40%;
+	display:block;
+	display:inline-block;
+	text-decoration: none;
+	list-style-type: none;
+
+	position: relative; left:21cm;
+
+}
+.Logowanie a
+{
+	text-decoration: none;
+	color:black;
+}
+.Logowanie a:hover
+{
+	color:#00CED1;
+}
+
+.Logowanie2
+{
+	font-size:24px;
+	background-color:#E6E6FA;	
+	position: relative; top:-2.7cm;
+	
+	display:block;
+	display:inline-block;
+	text-decoration: none;
+	list-style-type: none;
+
+	position: relative; left:29cm;
+
+}
+.Logowanie2 a
+{
+	text-decoration: none;
+	color:#3CB371;
+}
+.Logowanie2 a:hover
+{
+	color:#00CED1;
+}
+.Konto
+{
+	display:block;
+	display:inline-block;
+	text-decoration: none;
+	list-style-type: none;
+
+	
+	
+}
+
+.Konto a
+{
+	text-decoration:none;
+	color:black;
+	
+	
+}
+.Konto a:hover
+{
+	color:#228B22;
+	text-decoration: none!important;
+	
+}
+
+.Wylogowanie
+{
+	display:block;
+	display:inline-block;
+
+	list-style-type: none;
+
+	
+	
+} 
+.Wylogowanie a
+{
+	text-decoration: none!important;
+	color:black;
+	
+}
+.Wylogowanie a:hover
+{
+	color:#FF9900;
+	text-decoration: none!important;
+}
+
+
+
+
+
+.tytulik{
+font-size:20px;
+	
+position: relative; top:1cm;
+background-size:5%;
+text-align:center;
+color:blue;
+}
+
+.logo
+{
+	position: relative;right:7cm;
+	position: relative;top:-3.5cm;
+	
+}
+
+.nav
+{ 
+	
+	z-index: 2;
+}
+
+
+.napisek
+{
+	text-align:center;
+	padding:1px;
+	color:burlywood;
+	font-size:45px;
+	border-bottom: 1px solid #CC3366;
+	margin-bottom: 30px;
+    position: relative;top:-2.4cm;
+	z-index: 1;
+}
+
+.napisek h67
+{
+	     
+    top: 27px;
+	z-index: 1;
+}
+
+
+.napisek100
+{
+	text-align:center;
+	padding:1px;
+	color:skyblue;
+	font-size:45px;
+	border-bottom: 1px solid #CC3366;
+	margin-bottom: 30px;
+    position: relative;top:-2.4cm;
+	z-index: 1;
+}
+
+
+.logowaniek a{
+    text-decoration:none;
+    font-size:20px;
+    color:orange;
+    
+}
+
+.logowaniek a:hover{
+    text-decoration:none;
+    
+    color:yellow;
+    
+}
+
+.napisek100 h67
+{
+	     
+    top: 27px;
+	z-index: 1;
+}
+
+
+.napisek107
+{
+	text-align:center;
+	padding:1px;
+	color:#37b93d;
+	font-size:45px;
+	border-bottom: 1px solid #CC3366;
+	margin-bottom: 30px;
+    position: relative;bottom:0.7cm;
+	z-index: 1;
+}
+
+.napisek107 h67
+{
+	     
+    top: 27px;
+	z-index: 1;
+}
+
+.napisek101
+{
+	text-align:center;
+	padding:1px;
+	color:gold;
+	font-size:45px;
+	border-bottom: 1px solid #CC3366;
+	margin-bottom: 30px;
+    position: relative;top:-0.7cm;
+	z-index: 1;
+}
+
+.napisek101 h67
+{
+	     
+    top: 27px;
+	z-index: 1;
+}
+
+
+.napisek01
+{
+	opacity: 0.9;
+	font-size:30px;
+		
+}
+
+.napisek02{
+	font-size: 30px;
+	opacity: 0.9;
+	color: #CC0033;
+}
+
+.napisek03{
+	font-size: 30px;
+	opacity: 0.9;
+	
+}
+
+.napisek04{
+	font-size: 30px;
+	color: yellow;
+	
+}
+.napisek05{
+	font-size: 30px;
+	color: lightyellow;
+	
+	
+}
+
+.napisek06{
+	font-size: 30px;
+	color: #FF9900;
+	
+	
+}
+
+.napisek07{
+	font-size: 30px;
+	
+	
+	
+}
+
+
+.napisek08{
+	font-size: 30px;
+	
+	
+	
+}
+
+.napisek09{
+	font-size: 30px;
+	
+	
+	
+}
+.napisek010{
+	font-size: 30px;
+	
+	
+	
+}
+.napisek011{
+	font-size: 30px;
+	
+	
+	
+}
+
+.napisek h67
+{
+	     
+    top: 27px;
+	z-index: 1;
+}
+.napisek10
+{
+	font-size: 35px;
+}
+
+
+
+.napisek11
+{
+	text-align:center;
+	padding:1px;
+	color:chartreuse;
+	font-size:45px;
+	border-bottom: 1px solid #CC3366;
+	margin-bottom: 30px;
+	position: relative;top:-2.4cm;
+	z-index: 1;
+}
+
+.napisek11 h67
+{
+	     
+    top: 27px;
+	z-index: 1;
+}
+
+
+
+
+.napisek3
+{
+	text-align:center;
+	padding:1px;
+	color:#006400;
+	font-size:35px;
+	
+    position: relative;
+	z-index: 1;
+	position: relative;top:2.5cm;
+}
+
+
+.napisek3 h666
+{
+	background: #fff;
+    padding: 0 15px;
+    position: relative;
+    top: 27px;
+	z-index: 1;
+	
+}
+
+#kontener2 {
+	width: 100%;
+
+	position: relative;top:-1cm;
+	
+	z-index: 2;
+	text-align:center;	}
+
+#kontener {
+	width: 100%;
+	position: relative;top:-0.1cm;
+	z-index: 2;
+	text-align:center;
+	}
+#menu {z-index: 2;display: table; padding: 0 10px 0; margin: 0 auto; overflow: hidden; font-size: 14px; background: #242424;}
+#menu li {z-index: 2;list-style-type: none; margin: 0 auto; float: left; }
+#menu li:hover {background: #404040;z-index: 2;}
+#menu > li
+{
+	float: left;
+	width: 207.5px;
+	height: 30px;
+	z-index: 2;
+}
+#menu li a {display: block; color: silver; text-decoration: none; padding: 7px 10px 7px;z-index: 2;}
+#menu li a:hover {background: #404040; color: white;z-index: 2;}
+#menu li li a {width: 180px;z-index: 2;}
+#menu li ul {overflow: hidden; display: none; background: #242424;z-index: 2;}
+#menu li:hover ul {position: absolute; padding: 0; display: block; width: 208px;z-index: 2;}
+
+
+#menu *:hover {transition: 0.3s ease-in;z-index: 2;}
+
+#menu {border-radius: 3px;z-index: 2;}
+#menu li ul {border-radius: 0 0 3px 3px;z-index: 2;}
+
+input[type=text],
+input[type=password]
+{
+	width: 220px;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+}
+
+input[type=text]:focus,
+input[type=password]:focus
+{
+	-webkit-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	border: 2px solid #a5cda5;
+	background-color: #e9f3e9;
+	color: #428c42;
+}
+
+
+
+
+
+
+.info
+{
+	
+	padding:20px;
+	background-color:#444444;
+	position: relative; top:1.9cm;
+	border-bottom-style: solid;
+	clear: both;
+	
+}
+
+.info h410
+{
+	
+	position: relative;left:18.9cm;
+	position: relative; top:1.7cm;
+	color:white;
+	font-size:19px;
+}
+
+.info h411 a
+{
+	
+	color:white;
+	text-decoration:none;
+	position: relative;left:5.3cm;
+}
+
+.info h411{
+	
+	position: relative;left:2.9cm;
+	font-size:17px;
+	color:#009933;
+	position: relative; bottom:1.2cm;
+}
+
+.info h411 a:hover
+{
+	color:orange;
+}
+#button {
+  display: inline-block;
+  background-color: #FF9800;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#button::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+#button:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#button:active {
+  background-color: #555;
+}
+#button.show {
+  opacity: 1;
+  visibility: visible;
+}
+.regulaminek
+{
+	background-color:#BBBBBB;
+	text-align:left;
+	
+}
+
+.regulaminek h55
+{
+font-size:19px;
+	color:#330000;
+}
+.dzieki a
+{
+	display:block;
+	display:inline-block;
+	text-decoration: none;
+	list-style-type: none;
+	text-align:center;
+}
+.panik
+
+{
+	position: relative; bottom:1.2cm;
+	position: relative; left:2.2cm;
+	
+	text-decoration: none;
+	list-style-type: none;
+	font-size:19px;
+
+}
+.panik a
+{
+	text-decoration:none;
+	color:black;
+	
+}
+
+.panik h889
+{
+	position: relative; left:2cm;
+	color:#3300CC;
+}
+
+
+.Logowanie1 a
+{
+	text-decoration: none;
+	color:black;
+}
+.Logowanie1 a:hover
+{
+	color:#555;
+	text-decoration: none;
+}
+
+
+
+.wyswie12 h555
+{
+	
+	font-size:18px;
+	color:white;
+}
+
+
+.wyswie20 h542
+{
+	position: relative; bottom:2.8cm;
+	position: relative; left:1.1cm;
+	font-size:22px;
+	color:blue;
+	
+	
+}
+
+
+.wyswie21 h542
+{
+	position: relative; bottom:3.49cm;
+	position: relative; left:5.8cm;
+	font-size:22px;
+	color:#20B2AA;
+	
+	
+}
+.wyswie22 h542
+{
+	position: relative; bottom:4.11cm;
+	position: relative; left:11.8cm;
+	font-size:22px;
+	color:#CD853F;
+	
+	
+}
+.wyswie23 h542
+{
+	position: relative; bottom:4.79cm;
+	position: relative; left:16.8cm;
+	font-size:22px;
+	color:#2E8B57;
+	
+	
+}
+
+.wyswie1777 h542
+{
+	position: relative; bottom:2.1cm;
+	position: relative; left:17.2cm;
+	font-size:22px;
+	color:orange;
+	
+	
+}
+
+
+
+.Logowanie22 a
+{
+	text-decoration: none;
+	color:black;
+	
+}
+.Logowanie22 a:hover
+{
+	color:#555;
+	text-decoration: none;
+}
+
+
+.Logowanie33 a
+{
+	text-decoration: none;
+	color:black;
+}
+.Logowanie33 a:hover
+{
+	color:#555;
+	text-decoration: none;
+}
+
+.sticky
+{
+	width:100%;
+	position:fixed;
+	left: 0;
+	top: 0;
+	
+	
+}
+img.koszyk
+{
+	transition: transform 0.3s;
+}
+
+img.koszyk:hover
+{
+	transform: scale(1.1);
+}
+.koszydiv
+{
+	position: relative;left:25cm;
+	position: relative;bottom:5.4cm;
+	
+}
+
+.los2
+{
+	position: relative;bottom:3.3cm;
+	position: relative;left:5cm;
+}
+
+input.btn{
+
+	font-size: 22px;
+	
+}
+
+.koszykt{
+	
+	position: relative;top:-20.1cm;
+	position: relative;left:0.5cm;
+	
+}
+input.btn4{
+
+	border: none;
+	background: #666600	;
+	color: yellow;
+	cursor: pointer;
+	font-size: 22px;
+	padding: 10px 14px;
+	margin: 15px;
+	transition: background 2s, color 2s;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+input.btn4:hover {
+	background: transparent;
+	color: palegoldenrod;
+}
+
+
+input.btn3{
+	
+	border: none;
+	background: #2F4F4F	;
+	color: yellow;
+	cursor: pointer;
+	font-size: 22px;
+	padding: 10px 14px;
+	margin: 15px;
+	transition: background 2s, color 2s;
+}
+
+input.btn3:hover {
+	background: transparent;
+	color: #8B0000;
+}
+.movie {
+	min-height: 280px;
+	padding: 10px;
+}
+figure {
+	float: left;
+	width: 200px;
+	height: 260px;
+	text-align: center;
+	
+	
+}
+figcaption {
+	
+	
+	
+	
+	color:orange;
+	font-size:20px;
+	
+	
+}
+
+.opis {
+	display: inline-flex;
+	
+	color:yellow;
+	font-size:20px;
+}
+#dates{
+display: inline-flex;
+text-align: center;
+  width: 650px;
+  height: 100px;
+ 
+
+  margin-left: 2px;
+  margin-top: 2px;
+}
+
+
+
+div.day{
+  width: 110px;
+  height: 150px;
+  margin-top: auto;
+ 
+ 
+  text-align: center;
+  display: inline-flex;
+  border-right: 2px double #20B2AA;
+  border-top: 2px double #20B2AA;
+  border-bottom: 2px double #20B2AA;
+  border-left: 2px double #20B2AA;
+  margin-bottom: 2px;
+ 
+}
+div.day a
+{
+	background:  none;
+	text-decoration: none;
+	
+	border: none;
+	
+
+
+}
+div.day a input
+{
+	background:  #ffffff;
+	height: 25px;
+	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-left: 3px;
+	margin-right: 3px;
+	border: none;
+	padding: 2px;
+	color: black;
+
+}
+
+div.day a:hover
+{
+	border: none;
+	
+	cursor: pointer;
+
+}
+div.day input:hover
+{
+	border: none;
+
+	cursor: pointer;
+	color: saddlebrown;
+
+}
+
+.day form{
+margin-left: auto;
+  margin-right: auto;
+}
+.day form input{
+	display: inline-flex;
+	margin-top: auto;
+  margin-bottom: auto;
+}
+
+
+.opis_rezerwacji
+{
+	font-size: 25px;
+	position: relative; bottom:0.3cm;
+	
+	color:#CCFFFF;
+}
+
+
+
+
+
+#lp {
+	width:25px;
+    height:25px;
+    font-size: 15px;
+    text-align: left;
+	padding: 5px;
+    margin: 5px 5px 0 0;
+	display: inline-block;
+	color: yellow;
+	position: relative; top: 0.1cm;
+	
+}
+
+#ekran {
+	width: 298px;
+	height: 35px;
+	background-color: #00008B;
+	text-align: center;
+	font-size: 20px;
+	color: bisque;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border: 2px solid black;
+	
+}
+
+.sala {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: 50px;
+	position: relative; top:4.3cm;
+}
+
+#footer_sala{
+  width: 600px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+	margin-right: auto;
+  text-align: center;
+
+}
+
+input.btn2 {
+    display:none;
+}
+
+input.btn2 + label {
+    color: #D8DFDC;
+  text-align: center;
+
+}
+
+input.btn2 + label span {
+    display:inline-block;
+    width:25px;
+    height:25px;
+
+    font-size: 15px;
+    margin: 5px 5px 0 0;
+    vertical-align: middle;
+    background-color: #2A8A33;
+    cursor:pointer;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.5);
+    border-radius: 20%;
+
+}
+
+input.btn2:checked + label span {
+    background-color: #3E4D47;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.5);
+}
+
+input.btn2:disabled + label span {
+    background-color: #c10115;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.5);
+}
+
+
+
+
+.koinfo h28
+
+{
+	font-size:22px;
+	color:#FF9800;
+	
+}
+
+.koinfo2
+{
+	
+	font-size:25px;
+	
+	
+}
+
+.pusto
+{
+	position: relative; left:1.2cm;
+	position: relative; top:1cm;
+}
+
+.pusto h43
+{
+	
+	font-size:21px;
+	color:#330033;
+}
+
+.pusto2 h45
+{
+	
+	font-size:21px;
+	color:whitesmoke;
+	
+}
+
+.pusto22 h45
+{
+	
+	font-size:21px;
+	color:red;
+}
+
+.pusto3 h45
+{
+	
+	font-size:21px;
+	color:seashell;
+}
+
+
+.wolne_miejsca
+{
+	
+	
+	position: relative; top:7cm;
+}
+
+.wolne_miejsca h82
+{
+	
+	color:#32CD32;
+	position: relative; top:2cm;
+	 font-size:25px;
+	 position: relative; left:5cm;
+}
+
+.wolne_miejsca h83
+{
+	 font-size:25px;
+	position: relative; top:4cm;
+	color:#0000CD;
+	 position: relative; right:3cm;
+}
+.wolne_miejsca h81
+{
+	 font-size:25px;
+	color:#8B0000;
+	position: relative; left:14cm;
+}
+
+.texto
+{
+	font-size:18px;
+	position: relative;left:1.6cm;
+}
+.godzko
+{
+	font-size:18px;
+	text-align:center;
+	position: relative; bottom:1.9cm;
+	
+	
+}
+.mapa
+{
+	text-align:center;
+	position: relative;left:1.6cm;
+}
+.telefono
+{
+	font-size:18px;
+	float:right;
+	position: relative; bottom:3.7cm;
+	position: relative;right:1.6cm;
+}
+
+.color
+{
+	animation-name: color;
+
+animation-duration:5s;
+
+animation-iteration-count:infinite;
+position: relative; top:1.8cm;
+border: 3px solid #ddd;
+
+font-size:22px;
+}
+@keyframes color
+{
+  0% { background-color:white; width:auto; color:#00CED1; }
+  25% { background-color:whitesmoke; }
+  
+  100% { background-color:white; width:auto; }
+}
+
+
+
+.pow
+{
+	
+	font-size:20px;
+	
+}
+
+.pow a
+{
+	text-decoration:none;
+	color:yellow;
+	
+	
+}
+
+.pow a:hover
+{
+	
+	color:orange;
+	text-decoration:none;
+}
+
+.powitanie{
+	font-size: 17px;
+	
+}
+
+.powEmail{
+	font-size: 17px;
+}
+
+.fa-user-circle{
+
+font-size: 20px;
+
+
+}
+
+
+.fa-sign-out-alt
+{
+	font-size: 16px;
+}
+
+input[type='image'] {
+    border-top-style:inset;
+	border-bottom-style:inset;
+	border-right-style:inset;
+	border-left-style:inset;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius:20px;
+	border-bottom-left-radius:20px;
+	background-color:#DDDDDD;
+	position: relative;top:0.4cm;
+	position: relative;left:0.4cm;
+	transition: transform 0.2s;
+}
+input[type='image']:hover {
+transform: scale(1.1);
+}
+
+
+.powrkosz{
+
+	font-size: 20px;
+	
+	
+	text-decoration: none;
+	
+}
+
+.powrkosz a{
+	text-decoration: none;
+	color: gold;
+}
+
+.powrkosz a:hover{
+
+	text-decoration: none;
+	color: #CD853F;
+}
+
+.powrkosz2{
+
+	font-size: 20px;
+	
+	
+	text-decoration: none;
+	
+}
+
+.powrkosz2 a{
+	text-decoration: none;
+	color:#ffffff;
+}
+
+.powrkosz2 a:hover{
+
+	text-decoration: none;
+	color: #E6E6FA;
+}
